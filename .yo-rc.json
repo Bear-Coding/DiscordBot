@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Tamer Nasser",
+      "authorEmail": "tamernasser@outlook.com",
+      "authorUrl": "https://github.com/tamerNasser/DiscordBot"
+    }
+  }
+}
